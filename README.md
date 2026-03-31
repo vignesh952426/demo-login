@@ -17,7 +17,7 @@ A sleek, modern login page with glassmorphism design, smooth animations, and res
 
 ## Usage
 
-1. Open `login.html` in a modern web browser
+1. Open `index.html` in a modern web browser
 2. Use the default credentials:
    - Username: `admin`
    - Password: `password`
@@ -49,6 +49,6 @@ You can easily customize:
 
 ```
 DemoLogin/
-├── login.html          # Main login page
+├── index.html          # Main login page
 └── README.md          # This file
 ```
